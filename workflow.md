@@ -25,3 +25,5 @@ git push          # Отправляет коммиты на GitHub
 git pull          # Забирает обновления с GitHub
 ```
 
+Команды:
+status, add, push, pull, checkout, diff, init, log, reset, restore, stash, switch
